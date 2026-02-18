@@ -33,7 +33,7 @@ business problems using Python, SQL, and modern data tools.
 <li><strong>Data Skills:</strong> EDA, Feature Engineering, Model Evaluation, Statistical Analysis</li>
 <li><strong>Visualization:</strong> Power BI, Tableau</li>
 <li><strong>Cloud Exposure:</strong> Azure Data Services (Foundational)</li>
-<li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB</li>
+<li><strong>Databases:</strong> MySQL, PostgreSQL</li>
 </ul>
 
 <hr>
