@@ -25,7 +25,7 @@ business problems using Python, SQL, and modern data tools.
 
 <hr>
 
-<h2>🎓 Education</h2>
+<h2> Education</h2>
 
 <p>
 <strong>Bachelor of Technology (B.Tech) in Computer Science & Engineering</strong><br>
@@ -41,7 +41,7 @@ Intellipaat<br>
 
 <hr>
 
-<h2>🧠 Core Skills</h2>
+<h2> Core Skills</h2>
 
 <ul>
 <li><strong>Programming:</strong> Python, SQL</li>
@@ -54,7 +54,7 @@ Intellipaat<br>
 
 <hr>
 
-<h2>🚀 Currently Working On</h2>
+<h2> Currently Working On</h2>
 
 <ul>
 <li>Advanced Machine Learning & AI concepts</li>
@@ -65,7 +65,7 @@ Intellipaat<br>
 
 <hr>
 
-<h2>🎯 Career Objective</h2>
+<h2> Career Objective</h2>
 
 <p>
 To contribute as a Data Analyst / Data Scientist in a growth-driven organization 
@@ -74,7 +74,7 @@ where I can apply analytics, AI, and problem-solving skills to deliver impactful
 
 <hr>
 
-<h2>📫 Connect With Me</h2>
+<h2> Connect With Me</h2>
 
 <p>
 LinkedIn: <a href="https://www.linkedin.com/in/sourav018/">Add Your LinkedIn Link Here</a><br>
