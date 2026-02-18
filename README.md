@@ -75,6 +75,6 @@ where I can apply analytics, AI, and problem-solving skills to deliver impactful
 <h2>📫 Connect With Me</h2>
 
 <p>
-LinkedIn: <a href="YOUR_LINKEDIN_LINK">Add Your LinkedIn Link Here</a><br>
-LeetCode: <a href="YOUR_LEETCODE_LINK">Add Your LeetCode Profile Here</a>
+LinkedIn: <a href="https://www.linkedin.com/in/sourav018/">Add Your LinkedIn Link Here</a><br>
+LeetCode: <a href="https://leetcode.com/u/sourav_20031/">Add Your LeetCode Profile Here</a>
 </p>
