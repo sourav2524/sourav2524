@@ -25,16 +25,18 @@ business problems using Python, SQL, and modern data tools.
 
 <hr>
 
-<h2>🎓 Education & Certification</h2>
+<h2>🎓 Education</h2>
 
 <p>
-<strong>Advanced Certification in Data Science with AI & ML – Intellipaat</strong><br>
-Duration: 8th December 2025 – 10th May 2026 (Ongoing)
+<strong>Bachelor of Technology (B.Tech) in Computer Science & Engineering</strong><br>
+Sister Nivedita University, Kolkata<br>
+2021 – 2025 | CGPA: 7.55 / 10
 </p>
 
 <p>
-Program focused on Python, Statistics, Machine Learning, AI concepts, 
-EDA, Feature Engineering, Model Building, and real-world project implementation.
+<strong>Advanced Certification in Data Science with AI & ML</strong><br>
+Intellipaat<br>
+8th December 2025 – 10th May 2026 (Ongoing)
 </p>
 
 <hr>
@@ -47,7 +49,7 @@ EDA, Feature Engineering, Model Building, and real-world project implementation.
 <li><strong>Data Skills:</strong> EDA, Feature Engineering, Model Evaluation, Statistical Analysis</li>
 <li><strong>Visualization:</strong> Power BI, Tableau</li>
 <li><strong>Cloud Exposure:</strong> Azure Data Services (Foundational)</li>
-<li><strong>Databases:</strong> MySQL, PostgreSQL </li>
+<li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB</li>
 </ul>
 
 <hr>
