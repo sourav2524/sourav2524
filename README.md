@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sourav Mondal</h1>
+<h1 align="center">Hi , I'm Sourav Mondal</h1>
 
 <h3 align="center">Aspiring Data Scientist | AI & Machine Learning | Data Analytics</h3>
 
 <p align="center">
-📍 Bangalore, India <br>
-📧 souravmondal2003m@gmail.com
+ Bangalore, India <br>
+ souravmondal2003m@gmail.com
 </p>
 
 <hr>
 
-<h2>👨‍💻 About Me</h2>
+<h2> About Me</h2>
 
 <p>
 I am passionate about transforming raw data into intelligent, data-driven solutions. 
