@@ -25,6 +25,20 @@ business problems using Python, SQL, and modern data tools.
 
 <hr>
 
+<h2>🎓 Education & Certification</h2>
+
+<p>
+<strong>Advanced Certification in Data Science with AI & ML – Intellipaat</strong><br>
+Duration: 8th December 2025 – 10th May 2026 (Ongoing)
+</p>
+
+<p>
+Program focused on Python, Statistics, Machine Learning, AI concepts, 
+EDA, Feature Engineering, Model Building, and real-world project implementation.
+</p>
+
+<hr>
+
 <h2>🧠 Core Skills</h2>
 
 <ul>
@@ -33,12 +47,12 @@ business problems using Python, SQL, and modern data tools.
 <li><strong>Data Skills:</strong> EDA, Feature Engineering, Model Evaluation, Statistical Analysis</li>
 <li><strong>Visualization:</strong> Power BI, Tableau</li>
 <li><strong>Cloud Exposure:</strong> Azure Data Services (Foundational)</li>
-<li><strong>Databases:</strong> MySQL, PostgreSQL</li>
+<li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB</li>
 </ul>
 
 <hr>
 
-<h2> Currently Working On</h2>
+<h2>🚀 Currently Working On</h2>
 
 <ul>
 <li>Advanced Machine Learning & AI concepts</li>
@@ -49,7 +63,7 @@ business problems using Python, SQL, and modern data tools.
 
 <hr>
 
-<h2> Career Objective</h2>
+<h2>🎯 Career Objective</h2>
 
 <p>
 To contribute as a Data Analyst / Data Scientist in a growth-driven organization 
@@ -58,9 +72,9 @@ where I can apply analytics, AI, and problem-solving skills to deliver impactful
 
 <hr>
 
-<h2> Connect With Me</h2>
+<h2>📫 Connect With Me</h2>
 
 <p>
-LinkedIn: <a href="https://www.linkedin.com/in/sourav018/">Add Your LinkedIn Link Here</a><br>
-LeetCode: <a href="https://leetcode.com/u/sourav_20031/">Add Your LeetCode Profile Here</a>
+LinkedIn: <a href="YOUR_LINKEDIN_LINK">Add Your LinkedIn Link Here</a><br>
+LeetCode: <a href="YOUR_LEETCODE_LINK">Add Your LeetCode Profile Here</a>
 </p>
