@@ -1,17 +1,66 @@
 <h1 align="center">Hi 👋, I'm Sourav Mondal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img allign = "right" alt="coding" width="500" src"https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
-<
-- 🔭 I’m currently working on **Covid-19 project**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sourav mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourav mondal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sourav mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav mondal" height="30" width="40" /></a>
-<a href="https://fb.com/sourav mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourav mondal" height="30" width="40" /></a>
-<a href="https://instagram.com/@innocent_guy00000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@innocent_guy00000" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sourav mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourav mondal" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@souravmondal2003m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@souravmondal2003m" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/souravmondal2003m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/souravmondal2003m" height="30" width="40" /></a>
-<a href="https://discord.gg/Sourav#4637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sourav#4637" height="30" width="40" /></a>
+<h3 align="center">Aspiring Data Scientist | AI & Machine Learning | Data Analytics</h3>
+
+<p align="center">
+📍 Bangalore, India <br>
+📧 souravmondal2003m@gmail.com
+</p>
+
+<hr>
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I am passionate about transforming raw data into intelligent, data-driven solutions. 
+Currently advancing my expertise in <strong>Data Science, Machine Learning, and Artificial Intelligence</strong> 
+through hands-on projects and real-world datasets.
+</p>
+
+<p>
+I enjoy working on end-to-end analytics — from data cleaning and exploratory analysis 
+to predictive modeling and insight generation. My focus is on solving practical 
+business problems using Python, SQL, and modern data tools.
+</p>
+
+<hr>
+
+<h2>🧠 Core Skills</h2>
+
+<ul>
+<li><strong>Programming:</strong> Python, SQL</li>
+<li><strong>Libraries:</strong> Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn</li>
+<li><strong>Data Skills:</strong> EDA, Feature Engineering, Model Evaluation, Statistical Analysis</li>
+<li><strong>Visualization:</strong> Power BI, Tableau</li>
+<li><strong>Cloud Exposure:</strong> Azure Data Services (Foundational)</li>
+<li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB</li>
+</ul>
+
+<hr>
+
+<h2> Currently Working On</h2>
+
+<ul>
+<li>Advanced Machine Learning & AI concepts</li>
+<li>End-to-end Data Science projects</li>
+<li>Business-driven analytics dashboards</li>
+<li>Strengthening SQL & data storytelling</li>
+</ul>
+
+<hr>
+
+<h2> Career Objective</h2>
+
+<p>
+To contribute as a Data Analyst / Data Scientist in a growth-driven organization 
+where I can apply analytics, AI, and problem-solving skills to deliver impactful business insights.
+</p>
+
+<hr>
+
+<h2> Connect With Me</h2>
+
+<p>
+LinkedIn: <a href="https://www.linkedin.com/in/sourav018/">Add Your LinkedIn Link Here</a><br>
+LeetCode: <a href="https://leetcode.com/u/sourav_20031/">Add Your LeetCode Profile Here</a>
 </p>
